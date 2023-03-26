@@ -1,2 +1,3 @@
 
 student name        ID        Email
+Ripon         301215985    ripon.du.chem
